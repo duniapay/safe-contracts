@@ -1,4 +1,5 @@
 build/
+celo-data-dir/
 node_modules/
 .DS_Store
 .zos.session
@@ -7,3 +8,5 @@ env/
 .env
 bin/
 solc
+celo-data-dir/keystore/UTC--2020-12-31T18-25-37.186215600Z--7f8a2e2f7c9f4722f7ca2902e437e9ad61f49802
+celo-data-dir/celo/nodekey
